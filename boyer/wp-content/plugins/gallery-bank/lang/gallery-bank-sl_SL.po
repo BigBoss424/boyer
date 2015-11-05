@@ -1,0 +1,874 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gallery Bank\n"
+"POT-Creation-Date: 2015-01-31 15:37+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\Development\\wp-content\\plugins"
+"\\gallery-bank\\\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: front_views/gallery-bank-shortcode.php:4
+msgid "Insert Gallery Bank Shortcode"
+msgstr "Vstavite bližnjico \"Gallery Bank\""
+
+#: front_views/gallery-bank-shortcode.php:6
+msgid "Select an album below to add it to your post or page."
+msgstr "Izberite album s seznama za dodajanje k prispevku ali strani"
+
+#: front_views/gallery-bank-shortcode.php:11
+msgid "Gallery Type"
+msgstr "Vrsta galerije"
+
+#: front_views/gallery-bank-shortcode.php:13
+msgid "Albums with Images"
+msgstr "Albumi s slikami"
+
+#: front_views/gallery-bank-shortcode.php:15
+msgid "Only Images"
+msgstr "Samo slike"
+
+#: front_views/gallery-bank-shortcode.php:18
+msgid "Album Format"
+msgstr "Oblika albuma"
+
+#: front_views/gallery-bank-shortcode.php:20
+msgid "Select Album Format"
+msgstr "Izberite obliko albuma"
+
+#: front_views/gallery-bank-shortcode.php:27
+msgid "Select Album"
+msgstr "Izbira albuma"
+
+#: front_views/gallery-bank-shortcode.php:29
+msgid "Select an Album"
+msgstr "Izberite album"
+
+#: front_views/gallery-bank-shortcode.php:63
+msgid "Gallery Format"
+msgstr "Vrsta galerije"
+
+#: front_views/gallery-bank-shortcode.php:65
+msgid "Select Gallery Format "
+msgstr "Izberite vrsto galerije"
+
+#: front_views/gallery-bank-shortcode.php:74 views/album-preview.php:47
+#: views/images-sorting.php:240
+msgid "Images in Row"
+msgstr "Slik v vrstici"
+
+#: front_views/gallery-bank-shortcode.php:79
+msgid "Image Width"
+msgstr "Širina slike"
+
+#: front_views/gallery-bank-shortcode.php:86 views/album-sorting.php:190
+msgid "Albums in Row"
+msgstr "Albumov v vrstici"
+
+#: front_views/gallery-bank-shortcode.php:91
+msgid "Text Format"
+msgstr "Oblika besedila"
+
+#: front_views/gallery-bank-shortcode.php:93
+msgid "Select Format "
+msgstr "Izberite obliko"
+
+#: front_views/gallery-bank-shortcode.php:100
+msgid "Special Effects"
+msgstr "Posebni učinki"
+
+#: front_views/gallery-bank-shortcode.php:122
+msgid "Animation Effects"
+msgstr "Učinki animacije"
+
+#: front_views/gallery-bank-shortcode.php:175
+msgid "Show Responsive Gallery"
+msgstr "Prikaz odzivne \"Responsive\" galerije"
+
+#: front_views/gallery-bank-shortcode.php:179
+msgid "Show Album Title"
+msgstr "Prikaz naslova albuma"
+
+#: front_views/gallery-bank-shortcode.php:184
+msgid "Insert Album"
+msgstr "Vstavi album"
+
+#: front_views/gallery-bank-shortcode.php:187
+msgid "Cancel"
+msgstr "Prekliči"
+
+#: front_views/gallery-bank-shortcode.php:499
+msgid "Please select an Album"
+msgstr "Prosim izberite album"
+
+#: front_views/gallery-bank-shortcode.php:503
+msgid "Please select an Album Format"
+msgstr "Prosim izberite obliko albuma"
+
+#: front_views/gallery-bank-shortcode.php:507
+msgid "Please select a Gallery Images Format"
+msgstr "Prosim izberite obliko galerije slik"
+
+#: front_views/gallery-bank-shortcode.php:511
+msgid "Please select a Text Format for the Gallery"
+msgstr "Prosim dodajte obliko besedila za galerijo"
+
+#: gallery-bank.php:128 gallery-bank.php:201 gallery-bank.php:274
+msgid "<img src=\""
+msgstr "<img src=\""
+
+#: gallery-bank.php:130 gallery-bank.php:203 gallery-bank.php:276
+msgid "/wp-admin/admin.php?page=gallery_bank"
+msgstr "/wp-admin/admin.php?page=gallery_bank "
+
+#: gallery-bank.php:137 gallery-bank.php:210 gallery-bank.php:283
+#: lib/gallery-bank-class.php:22 lib/gallery-bank-class.php:37
+#: lib/gallery-bank-class.php:52 views/header.php:153 views/header.php:167
+#: views/header.php:181
+msgid "Dashboard"
+msgstr "Nadzorna plošča"
+
+#: gallery-bank.php:145 gallery-bank.php:218 gallery-bank.php:291
+#: views/dashboard.php:129
+msgid "Add New Album"
+msgstr "Dodaj nov album"
+
+#: gallery-bank.php:153 gallery-bank.php:226 gallery-bank.php:299
+#: lib/gallery-bank-class.php:23 lib/gallery-bank-class.php:38
+#: lib/gallery-bank-class.php:53 views/dashboard.php:154 views/header.php:154
+#: views/header.php:168 views/header.php:182
+msgid "Short-Codes"
+msgstr "Kratke Kode"
+
+#: gallery-bank.php:160 gallery-bank.php:233 gallery-bank.php:306
+#: lib/gallery-bank-class.php:24 lib/gallery-bank-class.php:39
+#: lib/gallery-bank-class.php:54 views/header.php:155 views/header.php:169
+#: views/header.php:183
+msgid "Album Sorting"
+msgstr "Sortiranje po albumu"
+
+#: gallery-bank.php:167 gallery-bank.php:240 gallery-bank.php:313
+#: lib/gallery-bank-class.php:25 lib/gallery-bank-class.php:40
+#: lib/gallery-bank-class.php:55 views/header.php:156 views/header.php:170
+#: views/header.php:184 views/settings.php:276
+msgid "Global Settings"
+msgstr "Globalne nastavitve"
+
+#: gallery-bank.php:174 gallery-bank.php:247 gallery-bank.php:320
+#: lib/gallery-bank-class.php:26 lib/gallery-bank-class.php:41
+#: lib/gallery-bank-class.php:56 views/gallery-bank-system-report.php:29
+#: views/header.php:157 views/header.php:171
+msgid "System Status"
+msgstr "Stanje sistema"
+
+#: gallery-bank.php:181 gallery-bank.php:254 gallery-bank.php:327
+#: lib/gallery-bank-class.php:27 lib/gallery-bank-class.php:42
+#: lib/gallery-bank-class.php:57 views/header.php:81 views/header.php:158
+#: views/header.php:172 views/header.php:185
+msgid "Recommendations"
+msgstr "Priporočeno"
+
+#: gallery-bank.php:188 gallery-bank.php:261 gallery-bank.php:334
+#: lib/gallery-bank-class.php:28 lib/gallery-bank-class.php:43
+#: lib/gallery-bank-class.php:58 views/header.php:159 views/header.php:173
+#: views/header.php:186 views/purchase_pro_version.php:28
+msgid "Premium Editions"
+msgstr "Premium različice"
+
+#: gallery-bank.php:195 gallery-bank.php:268 gallery-bank.php:341
+#: lib/gallery-bank-class.php:29 lib/gallery-bank-class.php:44
+#: lib/gallery-bank-class.php:59 views/header.php:86 views/header.php:160
+#: views/header.php:174 views/header.php:187
+msgid "Our Other Services"
+msgstr "Naše druge storitve"
+
+#: gallery-bank.php:351
+msgid "View Gallery Bank Documentation"
+msgstr "Ogled Gallery Bank dokumentacije"
+
+#: gallery-bank.php:351
+msgid "Docs"
+msgstr "Dokumenti"
+
+#: gallery-bank.php:352
+msgid "View Gallery Bank Premium Editions"
+msgstr "Oglej Gallery Bank Premije Edicije"
+
+#: gallery-bank.php:352
+msgid "Go for Premium!"
+msgstr "Pojdi za premije!"
+
+#: lib/add-new-album-class.php:44 views/edit-album.php:346
+#: views/edit-album.php:353
+msgid " Set as Album Cover"
+msgstr "Nastavi kot sliko albuma"
+
+#: lib/add-new-album-class.php:47 views/edit-album.php:294
+#: views/edit-album.php:359
+msgid "Enter your Title"
+msgstr "Dodaj naslov"
+
+#: lib/add-new-album-class.php:48 views/edit-album.php:299
+#: views/edit-album.php:364
+msgid "Enter your Description "
+msgstr "Dodaj opis"
+
+#: lib/add-new-album-class.php:50 views/edit-album.php:305
+#: views/edit-album.php:370
+msgid "Enter your Tags"
+msgstr "Dodaj oznake"
+
+#: lib/add-new-album-class.php:54 views/edit-album.php:391
+msgid "Delete Image"
+msgstr "Izbris slike"
+
+#: lib/gallery-bank-class.php:21 lib/gallery-bank-class.php:36
+#: lib/gallery-bank-class.php:51 views/header.php:141
+msgid "Gallery Bank"
+msgstr "Gallery Bank"
+
+#: lib/gallery-bank-class.php:404
+msgid "Add Gallery using Gallery Bank"
+msgstr "Dodaj galerijo z Gallery Bank"
+
+#: views/album-preview.php:31
+msgid "Album Preview"
+msgstr "Predogled albuma"
+
+#: views/album-preview.php:34 views/album-sorting.php:158
+#: views/edit-album.php:160 views/edit-album.php:415
+#: views/images-sorting.php:202 views/purchase_pro_version.php:32
+#: views/settings.php:279 views/shortcode.php:32
+msgid "Back to Albums"
+msgstr "Nazaj k albumom"
+
+#: views/album-preview.php:52 views/album-sorting.php:195
+#: views/images-sorting.php:244
+msgid "Please Choose"
+msgstr "Prosim izberi"
+
+#: views/album-sorting.php:154
+msgid "Re-Order Albums"
+msgstr "Spremeni vrstni red albumov"
+
+#: views/album-sorting.php:160 views/images-sorting.php:204
+msgid "Update Order"
+msgstr "Posodobi vrstni red"
+
+#: views/album-sorting.php:163 views/images-sorting.php:207
+msgid "Sorting Order has been updated."
+msgstr "Vrstni red je posodobljen"
+
+#: views/album-sorting.php:275 views/dashboard.php:302
+#: views/dashboard.php:306 views/dashboard.php:310 views/edit-album.php:610
+#: views/edit-album.php:626 views/images-sorting.php:308
+msgid "This feature is only available in Paid Premium Version!"
+msgstr "Ta funkcija je na voljo samo v vplačane premije različici!"
+
+#: views/dashboard.php:118 views/shortcode.php:28
+msgid "Gallery Bank Short-Codes"
+msgstr "Gallery Bank Kratki-Kode"
+
+#: views/dashboard.php:135
+msgid "Delete All Albums"
+msgstr "Izbris vseh albumov"
+
+#: views/dashboard.php:136
+msgid "Purge Images & Albums"
+msgstr "Odstranitev slik in albumov"
+
+#: views/dashboard.php:137
+msgid "Restore Factory Settings"
+msgstr "Povrnitev na privzete nastavitve"
+
+#: views/dashboard.php:144
+msgid "Existing Albums Overview"
+msgstr "Ogled obstoječih albumov"
+
+#: views/dashboard.php:150 views/edit-album.php:253
+msgid "Thumbnail"
+msgstr "Podrobnost"
+
+#: views/dashboard.php:151
+msgid "Title"
+msgstr "Naslov"
+
+#: views/dashboard.php:152
+msgid "Total Images"
+msgstr "Skupno število slik"
+
+#: views/dashboard.php:153
+msgid "Date"
+msgstr "Datum"
+
+#: views/dashboard.php:218
+msgid "Edit Album"
+msgstr "Uredi album"
+
+#: views/dashboard.php:223 views/images-sorting.php:198
+msgid "Re-Order Images"
+msgstr "Spremeni vrstni red slik"
+
+#: views/dashboard.php:228
+msgid "Preview Album"
+msgstr "Predogled albuma"
+
+#: views/dashboard.php:233
+msgid "Delete Album"
+msgstr "Izbriši album"
+
+#: views/dashboard.php:289
+msgid "Are you sure you want to delete this Album?"
+msgstr "Si prepričan, da želiš izbrisati ta album?"
+
+#: views/edit-album.php:157
+msgid "Album"
+msgstr "Album"
+
+#: views/edit-album.php:161 views/edit-album.php:414
+msgid "Save Album"
+msgstr "Shrani album"
+
+#: views/edit-album.php:165
+msgid "Album Saved. Kindly wait for the redirect to happen."
+msgstr "Album shranjen. Preusmerjam."
+
+#: views/edit-album.php:172
+msgid "Album Details"
+msgstr "Podrobnosti o albumu"
+
+#: views/edit-album.php:176
+msgid "Album Title"
+msgstr "Naslov albuma"
+
+#: views/edit-album.php:181
+msgid "Enter your Album Title"
+msgstr "Vnos naslova albuma"
+
+#: views/edit-album.php:188
+msgid "Description"
+msgstr "Opis"
+
+#: views/edit-album.php:204
+msgid "Upload Images"
+msgstr "Nalaganje slik"
+
+#: views/edit-album.php:207
+msgid "Your browser doesn\"t have Flash, Silverlight or HTML5 support."
+msgstr "Vaš brskalnik nima podpore Flash, Silverlight ali HTML5."
+
+#: views/edit-album.php:214
+msgid "Upload Videos"
+msgstr "Nalaganje videoposnetkov"
+
+#: views/edit-album.php:215 views/edit-album.php:260 views/settings.php:288
+#: views/settings.php:504 views/settings.php:734 views/settings.php:845
+#: views/settings.php:944 views/settings.php:1266 views/settings.php:1382
+#: views/settings.php:1433 views/settings.php:1485
+msgid " (Available in Premium Versions)"
+msgstr "(Na voljo v premije različici)"
+
+#: views/edit-album.php:220
+msgid "Video Url"
+msgstr "URL posnetka"
+
+#: views/edit-album.php:224
+msgid "Enter your Video Url"
+msgstr "Vstavi URL videoposnetka"
+
+#: views/edit-album.php:230
+msgid "Upload Video"
+msgstr "Naloži videoposnetek"
+
+#: views/edit-album.php:241
+msgid "Your Gallery Bank Album"
+msgstr "Vaš Gallery Bank album"
+
+#: views/edit-album.php:250
+msgid "Delete"
+msgstr "Izbriši"
+
+#: views/edit-album.php:256
+msgid "Title & Description"
+msgstr "Naslov in podrobnosti"
+
+#: views/edit-album.php:259
+msgid "Tags (comma separated list)"
+msgstr "Oznake (z vejico ločen seznam)"
+
+#: views/edit-album.php:263
+msgid "Url to Redirect on click of an Image"
+msgstr "Povezava URL za preusmeritev klika na sliko"
+
+#: views/edit-album.php:315
+msgid "Delete Video"
+msgstr "Izbris videoposnetka"
+
+#: views/edit-album.php:597
+msgid "Are you sure you want to delete this Image?"
+msgstr "Ali resnično želite izbrisati to sliko?"
+
+#: views/gallery-bank-system-report.php:32
+msgid "Get System Report"
+msgstr "Dobi sistemsko poročilo"
+
+#: views/gallery-bank-system-report.php:36
+msgid "Close System Report"
+msgstr "Zapri sistemsko poročilo"
+
+#: views/gallery-bank-system-report.php:162
+msgid "Default"
+msgstr "Privzeto"
+
+#: views/header.php:18
+msgid "Get Started"
+msgstr "Začni"
+
+#: views/header.php:21
+msgid "Watch Gallery Video!"
+msgstr "Ogled Gallery videa"
+
+#: views/header.php:25
+msgid "read documentation here"
+msgstr "branje dokumentacije tukaj"
+
+#: views/header.php:30
+msgid "Go Premium"
+msgstr "Pojdi Premije"
+
+#: views/header.php:34
+msgid "Features"
+msgstr "Lastnosti"
+
+#: views/header.php:39
+msgid "Online Demos"
+msgstr "Demo na spletu"
+
+#: views/header.php:44
+msgid "Premium Pricing Plans"
+msgstr "premije načrti cenik"
+
+#: views/header.php:51
+msgid "Knowledge Base"
+msgstr "Zbirka znanja"
+
+#: views/header.php:56
+msgid "Support Forum"
+msgstr "Forum podpore"
+
+#: views/header.php:61
+msgid "FAQ's"
+msgstr "Vprašanja in odgovori"
+
+#: views/header.php:66
+msgid "Detailed Features"
+msgstr "Podrobne lastnosti"
+
+#: views/header.php:72
+msgid "More Actions"
+msgstr "Več dejanj"
+
+#: views/header.php:76
+msgid "Plugin Customization"
+msgstr "Plugin Customization"
+
+#: views/purchase_pro_version.php:37
+msgid "WP Gallery Bank is an one time Investment. Its Worth it!"
+msgstr "WP Gallery Bank je en čas Naložbe. Njena je vredno!"
+
+#: views/settings.php:280
+msgid "Update Settings"
+msgstr "Posodobi nastavitve"
+
+#: views/settings.php:287
+msgid "Thumbnail Settings"
+msgstr "Nastavitev sličic"
+
+#: views/settings.php:299
+msgid "Thumbnail Size"
+msgstr "Velikost sličic"
+
+#: views/settings.php:306 views/settings.php:314 views/settings.php:522
+#: views/settings.php:530
+msgid "Original"
+msgstr "Original"
+
+#: views/settings.php:309 views/settings.php:317 views/settings.php:525
+#: views/settings.php:533
+msgid "Custom"
+msgstr "Po meri"
+
+#: views/settings.php:326 views/settings.php:542
+msgid "Width"
+msgstr "Širina"
+
+#: views/settings.php:336 views/settings.php:552
+msgid "Height"
+msgstr "Višina"
+
+#: views/settings.php:348 views/settings.php:563 views/settings.php:985
+msgid "Opacity"
+msgstr "Prosojnost"
+
+#: views/settings.php:360 views/settings.php:575 views/settings.php:996
+msgid "Border Size"
+msgstr "Velikost okvira"
+
+#: views/settings.php:371 views/settings.php:587 views/settings.php:1007
+msgid "Border Radius"
+msgstr "Polmer okvira"
+
+#: views/settings.php:382 views/settings.php:599 views/settings.php:1032
+msgid "Border Color"
+msgstr "Barva okvira"
+
+#: views/settings.php:396
+msgid "Margin Between Images"
+msgstr "Razdalja med slikami"
+
+#: views/settings.php:406 views/settings.php:633 views/settings.php:1018
+msgid "Text Color"
+msgstr "Barva besedila"
+
+#: views/settings.php:420 views/settings.php:650 views/settings.php:1092
+msgid "Text-Align"
+msgstr "Poravnava besedila"
+
+#: views/settings.php:434 views/settings.php:664 views/settings.php:801
+#: views/settings.php:1106 views/settings.php:1314
+msgid "Font-Family"
+msgstr "Vrsta pisave"
+
+#: views/settings.php:457 views/settings.php:687 views/settings.php:1129
+msgid "Heading Font-Size"
+msgstr "Velikost pisave naslovov"
+
+#: views/settings.php:474 views/settings.php:704 views/settings.php:1146
+msgid "Text Font-Size"
+msgstr "Velikost besedila"
+
+#: views/settings.php:491 views/settings.php:721
+msgid "Description Length"
+msgstr "Dolžina opisa"
+
+#: views/settings.php:503
+msgid "Album Cover Settings"
+msgstr "Nastavitev ovitka albuma"
+
+#: views/settings.php:515
+msgid "Cover Size"
+msgstr "Veličina ovitka"
+
+#: views/settings.php:613
+msgid "Margin Between Albums"
+msgstr "Razdalja med albumi"
+
+#: views/settings.php:623
+msgid "Text for Album Click"
+msgstr "Besedilo za klik na album"
+
+#: views/settings.php:733
+msgid "Filter Settings"
+msgstr "Nastavitve filtra"
+
+#: views/settings.php:745
+msgid "Filters"
+msgstr "Filtri"
+
+#: views/settings.php:752 views/settings.php:760 views/settings.php:1170
+#: views/settings.php:1178 views/settings.php:1196 views/settings.php:1203
+#: views/settings.php:1221 views/settings.php:1228 views/settings.php:1245
+#: views/settings.php:1252 views/settings.php:1360 views/settings.php:1367
+#: views/settings.php:1400 views/settings.php:1408 views/settings.php:1451
+#: views/settings.php:1459
+msgid "Enable"
+msgstr "Omogoči"
+
+#: views/settings.php:755 views/settings.php:763 views/settings.php:1173
+#: views/settings.php:1181 views/settings.php:1198 views/settings.php:1206
+#: views/settings.php:1223 views/settings.php:1230 views/settings.php:1247
+#: views/settings.php:1254 views/settings.php:1362 views/settings.php:1370
+#: views/settings.php:1403 views/settings.php:1411 views/settings.php:1454
+#: views/settings.php:1462
+msgid "Disable"
+msgstr "Onemogoči"
+
+#: views/settings.php:773
+msgid "Filter Color"
+msgstr "Barva filtra"
+
+#: views/settings.php:787
+msgid "Filter Text Color"
+msgstr "Barva filtra besedila"
+
+#: views/settings.php:824 views/settings.php:1337
+msgid "Font-Size"
+msgstr "Velikost pisave"
+
+#: views/settings.php:844
+msgid "Roles & Capabilities"
+msgstr "Vloge in pravice"
+
+#: views/settings.php:856
+msgid "Privileges for Admin"
+msgstr "Pravice za administratorja"
+
+#: views/settings.php:860 views/settings.php:876 views/settings.php:892
+#: views/settings.php:909 views/settings.php:927
+msgid "Full Control"
+msgstr "Poln nadzor"
+
+#: views/settings.php:863 views/settings.php:879 views/settings.php:895
+#: views/settings.php:912 views/settings.php:930
+msgid "Read"
+msgstr "Branje"
+
+#: views/settings.php:866 views/settings.php:882 views/settings.php:898
+#: views/settings.php:915 views/settings.php:933
+msgid "Write"
+msgstr "Pisanje"
+
+#: views/settings.php:872
+msgid "Privileges for Editor"
+msgstr "Pravice za urednika"
+
+#: views/settings.php:888
+msgid "Privileges for Author"
+msgstr "Pravice za avtorja"
+
+#: views/settings.php:904
+msgid "Privileges for Contributor"
+msgstr "Pravice za sodelavca"
+
+#: views/settings.php:921
+msgid "Privileges for Subscriber"
+msgstr "Pravice za naročnika"
+
+#: views/settings.php:943
+msgid "Lightbox Settings"
+msgstr "Nastavitve za Lightbox"
+
+#: views/settings.php:955
+msgid "Lightbox Type"
+msgstr "Vrsta Lightbox"
+
+#: views/settings.php:1046
+msgid "Inline Background"
+msgstr "Ozadje vrstičnega elementa"
+
+#: views/settings.php:1060
+msgid "Overlay Background"
+msgstr "Prekrivno ozadje"
+
+#: views/settings.php:1074
+msgid "Fade In Time"
+msgstr "Čas osvetlitve"
+
+#: views/settings.php:1083
+msgid "Fade Out Time"
+msgstr "Čas zatemnitve"
+
+#: views/settings.php:1163
+msgid "Facebook Comments"
+msgstr "Komentarji s Facebooka"
+
+#: views/settings.php:1190
+msgid "Social Sharing"
+msgstr "Delitev po socialnem omrežju"
+
+#: views/settings.php:1215
+msgid "Image Title"
+msgstr "Naslov slike"
+
+#: views/settings.php:1239
+msgid "Image Description"
+msgstr "Opis slike"
+
+#: views/settings.php:1265
+msgid "Front - End Layout Settings"
+msgstr "Nastavitev razporeditve"
+
+#: views/settings.php:1277
+msgid "Text for Back Button"
+msgstr "Besedilo za gumb \"Nazaj\""
+
+#: views/settings.php:1287
+msgid "Button Color"
+msgstr "Barva gumba"
+
+#: views/settings.php:1300
+msgid "Button Text Color"
+msgstr "Barva besedila gumba"
+
+#: views/settings.php:1354
+msgid "Album Seperator"
+msgstr "Izločitev albumov"
+
+#: views/settings.php:1381
+msgid "Pagination Settings for Images"
+msgstr "Nastavitev številčenja slik"
+
+#: views/settings.php:1393
+msgid "Paging"
+msgstr "Številčenje"
+
+#: views/settings.php:1420
+msgid "No. of Images Per Page "
+msgstr "Št. slik na strani"
+
+#: views/settings.php:1432
+msgid "Slide Show Settings"
+msgstr "Nastavitev predvajalnika slik"
+
+#: views/settings.php:1444
+msgid "Auto Play"
+msgstr "Predvajaj samodejno"
+
+#: views/settings.php:1471
+msgid "Interval"
+msgstr "Časovni interval"
+
+#: views/settings.php:1484
+msgid "Language Direction Settings"
+msgstr "Nastavitve za jezike"
+
+#: views/settings.php:1496
+msgid "Language Direction"
+msgstr "Jeziki"
+
+#: views/settings.php:1653
+msgid "This Feature is only available in Paid Premium Version!"
+msgstr "Ta funkcija je na voljo samo v vplačane premije različici!"
+
+#~ msgid "VIEW ALL"
+#~ msgstr "PRIKAŽI VSE"
+
+#~ msgid "Licensing"
+#~ msgstr "Licenca"
+
+#~ msgid " Rotate Image"
+#~ msgstr "Zasuk slike"
+
+#~ msgid "Select Gallery"
+#~ msgstr "Izberi galerijo"
+
+#~ msgid "Select Gallery Format"
+#~ msgstr "Izberi vrsto galerije"
+
+#~ msgid "Images In Row"
+#~ msgstr "Slik v vrstici"
+
+#~ msgid "Select Text Format"
+#~ msgstr "Izberi obliko besedila"
+
+#~ msgid "Special Effect"
+#~ msgstr "Posebni učinki"
+
+#~ msgid "Select Special Effect"
+#~ msgstr "Izberi poseben učinek"
+
+#~ msgid "Animation Effect"
+#~ msgstr "Efekt animacije"
+
+#~ msgid "Responsive Gallery"
+#~ msgstr "Odzivna \"responsive\" galerija"
+
+#~ msgid "Attention! A new vesion of Gallery Bank is available for download."
+#~ msgstr "Pozor! Na voljo je nova različica Gallery Bank za prenos."
+
+#~ msgid "Click"
+#~ msgstr "Klik"
+
+#~ msgid "here"
+#~ msgstr "tukaj"
+
+#~ msgid "to upgrade your version of Gallery Bank."
+#~ msgstr "za posodobitev trenutne različice Gallery Bank"
+
+#~ msgid "Dashboard - Gallery Bank"
+#~ msgstr "Nadzorna plošča - Gallery Bank"
+
+#~ msgid "Date of Creation"
+#~ msgstr "Ustvarjeno dne"
+
+#~ msgid "Are you sure you want to delete all Albums?"
+#~ msgstr "Si prepričan, da želiš izbrisati vse albume?"
+
+#~ msgid "Are you sure you want to Restore Factory Settings?"
+#~ msgstr "Si prepričan, da želiš povrniti privzete nastavitve?"
+
+#~ msgid "Are you sure you want to Purge all Images & Albums?"
+#~ msgstr "Si prepričan, da želiš __ vse slike in albume?"
+
+#~ msgid "Upload Thumbnails "
+#~ msgstr "Podrobnosti nalaganja"
+
+#~ msgid "Your Wordpress Version doesn\"t support Wp-media."
+#~ msgstr "Ta različica Wordpressa ne podpira wp-media"
+
+#~ msgid "Are you sure you want to delete these Images?"
+#~ msgstr "Ali resnično želite izbrisati te slike?"
+
+#~ msgid "Our Other Products"
+#~ msgstr "Naši ostali produkti"
+
+#~ msgid "Order Customization"
+#~ msgstr "Ročno urejanje vrstnega redu"
+
+#~ msgid "Gallery Bank Licensing Module"
+#~ msgstr "Gallery Bank licenčni modul"
+
+#~ msgid "Update"
+#~ msgstr "Posodobitev"
+
+#~ msgid "Success! Settings have been updated."
+#~ msgstr "Nastavitve so uspešno posodobljene!"
+
+#~ msgid "Restore Settings"
+#~ msgstr "Povrni nastavitve"
+
+#~ msgid "Settings has been updated."
+#~ msgstr "Nastavitve posodobljene."
+
+#~ msgid "Success! Settings have been restored."
+#~ msgstr "Nastavitve so uspešno povrnjene! "
+
+#~ msgid "Show Albums"
+#~ msgstr "Prikaz albumov"
+
+#~ msgid "Responsive"
+#~ msgstr "Odzivno \"Responsive\""
+
+#~ msgid "With Albums in Row"
+#~ msgstr "Z albumi v vrstici"
+
+#~ msgid "Image Uploader Settings"
+#~ msgstr "Nastavitve za nalagalca slk"
+
+#~ msgid "Uploader for Images"
+#~ msgstr "Nalagalec za slike"
+
+#~ msgid "WP Media"
+#~ msgstr "WP medij"
+
+#~ msgid "Change Uploading Image Name"
+#~ msgstr "Sprememba naslova pri nalaganju slike"
+
+#~ msgid "Image url location"
+#~ msgstr "URL slike"
+
+#~ msgid "Open in New Window"
+#~ msgstr "Odpri v novem oknu"
+
+#~ msgid "Same Window"
+#~ msgstr "Istem oknu"
+
+#~ msgid "Are you sure you want to restore settings?"
+#~ msgstr "Želiš povrniti nastavitve?"
